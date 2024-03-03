@@ -5,4 +5,7 @@ fourth line
 fifth line
 
 1st line
-slave commit  
+slave commit 
+
+
+final commit by slave2 
