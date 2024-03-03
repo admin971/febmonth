@@ -4,4 +4,5 @@ second line
 fourth line
 fifth line
 
-1st line 
+1st line
+slave commit  
