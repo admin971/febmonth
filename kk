@@ -1,26 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-1 line create by karthick  
-=======
-2nd line by balu  
->>>>>>> slavebranch
 
-<<<<<<< HEAD
-3rd line by pav
-
-4th line by amma 
-=======
-2nd line by balu
-
-amma commit  
->>>>>>> slavebranch
-
-
-final commit by karthick
-=======
-1st line
-slave commit 
-
-
-final commit by slave2 
->>>>>>> slave2
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: pavi <ubuntu@ip-172-31-32-187.ap-south-1.compute.internal>
+#
+# On branch master
+# Changes to be committed:
+#	modified:   kk
+#
+# Untracked files:
+#	kk.orig
+#	test
+#	test.save
+#
