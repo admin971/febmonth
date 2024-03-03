@@ -5,6 +5,7 @@
 2nd line by balu  
 >>>>>>> slavebranch
 
+<<<<<<< HEAD
 3rd line by pav
 
 4th line by amma 
@@ -16,3 +17,10 @@ amma commit
 
 
 final commit by karthick
+=======
+1st line
+slave commit 
+
+
+final commit by slave2 
+>>>>>>> slave2
