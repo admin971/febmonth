@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 amma commit 
 
 
@@ -19,3 +20,14 @@ final commit by slave2
 =======
 rebasee commit
 >>>>>>> slave2
+||||||| 092d0ed
+amma commit  
+=======
+amma commit 
+
+
+appa commit 
+
+
+saran commit
+>>>>>>> slavebranch
